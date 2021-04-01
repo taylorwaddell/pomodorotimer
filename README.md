@@ -25,6 +25,6 @@ This project taught me so much. Including, but not limited to:
 4. Proper utilization of a Bootstrap progress bar.
 Overall a very fun challenge that lead me to many fun discoveries and lots of fun puzzles & problems!
 
-Thanks for checking out my app!
-— Taylor Waddell
+Thanks for checking out my app!<br />
+— Taylor Waddell<br />
 Connect with me on [LinkedIn](https://www.linkedin.com/in/taylorwwaddell/)!
