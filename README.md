@@ -4,10 +4,11 @@
 Although the driving purpose of the creation of this app was to develop a more clear understanding of React, the actual app has quite a simple purpose. This project is a web adaptation of the commonly used and popular Pomodoro Timer productivity tool. The goal was to create an application that could be set once and then run continuously until stopped. With intervals of “focus” and “break” time. Featuring an alarm on every switch of timer type to alert the user of the change.
 
 ### Technologies and Tools
-Technologies:
+##### Technologies:
 - React Library
 - Bootstrap/CSS
-Tools:
+
+##### Tools:
 - VSCode
 - GitHub
 We decided to use the React Library for this project because of its unique ability to partially render a page without needing to reload. This was important in this project due to the nature of the timer needing to change and re-render periodically without user initiation.
